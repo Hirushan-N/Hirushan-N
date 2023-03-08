@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadeesh Hirushan</h1>
+<h6 align="center">|| Debugging the world || Innovating the future with every keystroke ||</h6>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirushan-n&label=Profile%20views&color=0e75b6&style=flat" alt="hirushan-n" /> </p>
 
