@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@hirushan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hirushan-n" height="30" width="40" /></a>
-<a href="https://dev.to/hirushan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hirushan-n" height="30" width="40" /></a>
+<a href="https://codepen.io/hirushan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hirushan-n" height="30" width="40" /></a>
+<a href="https://dev.to/hirushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hirushan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nadeeshhirushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeeshhirushan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17420509/nadeesh-hirushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17420509/nadeesh-hirushan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17420509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17420509" height="30" width="40" /></a>
 <a href="https://hashnode.com/@hirushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hirushan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nadeeshhirushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nadeeshhirushan" height="30" width="40" /></a>
 </p>
