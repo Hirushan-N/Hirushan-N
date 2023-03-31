@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hirushan-N/Hirushan-N/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hirushan-N/Hirushan-N/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
