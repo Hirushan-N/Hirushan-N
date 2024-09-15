@@ -1,11 +1,17 @@
 <div align="center">
   <h1>Nadeesh Hirushan</h1>
-  <p>|| Innovating the future with every keystroke || Debugging the world ||</p>
-  <img src="assets/Postman - Postman API Fundamentals Student Expert - 2024-09-11.png" width="150" />
-  <p>Software Engineer | Postman API Fundamentals Student Expert | Microsoft Enthusiast</p>
+</div>
+<div align="center">
+    <p><strong>Software Engineer | Postman API Fundamentals Student Expert | Microsoft Enthusiast</strong></p>
+  <a href="https://api.badgr.io/public/assertions/0GwHI141SaGZAjyYrtbd4w?identity__email=nadeeshhirushan%40outlook.com" target="_blank">
+    <img src="https://github.com/Hirushan-N/Hirushan-N/blob/main/assets/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-09-11.png" alt="Postman API Fundamentals Student Expert Badge" width="80" />
+  </a>
+    <p><strong>I'm here for: || Innovating the future with every keystroke || Debugging the world ||</strong></p>
 </div>
 
-## About Me
+
+
+## 👋 About Me
 
 I am a **Software Engineer** with a passion for problem-solving and innovation, specializing in **.NET technologies**, full-stack development, and API engineering. With over 2+ years of hands-on experience, I’ve worked on impactful projects across industries like **e-commerce**, **healthcare**, **education**, and **automotive**.
 
@@ -13,12 +19,12 @@ Currently, I am pursuing my **BSc (Hons) in Computing** at **NIBM**, affiliated 
 
 I believe in constantly learning and pushing the boundaries of what technology can do to innovate and improve the world.
 
-## What I’m Working On
+## 🚀 What I’m Working On
 - **Software Engineer** at **Fintechnology Asia Pacific Lanka** and **D P Infotech (Pvt) Limited**.
 - Building applications using **ASP.NET Core**, **MERN stack**, **API development**, and **cloud technologies**.
 - Actively exploring **Artificial Intelligence** and **Cloud Computing**.
 
-## Education
+## 🎓 Education
 - **BSc Hons in Computing** (3rd Year)  
   National Institute of Business Management, Sri Lanka  
   Affiliated with Coventry University, UK (2023 – 2025)
@@ -29,12 +35,12 @@ I believe in constantly learning and pushing the boundaries of what technology c
 - **Diploma in Software Engineering**  
   National Institute of Business Management, Sri Lanka (2019 – 2021)
 
-## Achievements
+## 🏆 Achievements
+
 - **Postman API Fundamentals Student Expert** (2024)  
-  ![Postman API Fundamentals Badge](https://raw.githubusercontent.com/Hirushan-N/Hirushan-N/main/assets/postman-api-expert-badge.png)  
   [View Credential](https://api.badgr.io/public/assertions/0GwHI141SaGZAjyYrtbd4w?identity__email=nadeeshhirushan%40outlook.com)
 
-## Technologies & Tools
+## 🛠 Technologies & Tools
 <p>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -47,7 +53,7 @@ I believe in constantly learning and pushing the boundaries of what technology c
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-## Career Journey
+## 📈 Career Journey
 
 I have worked in various capacities that have allowed me to contribute to significant software projects while gaining experience in agile environments.
 
@@ -66,7 +72,7 @@ I have worked in various capacities that have allowed me to contribute to signif
   APP 360 Software (PVT) Ltd  
   *Contributed to backend development for POS360°, a comprehensive Point of Sale and inventory management system.*
 
-## Contact Me
+## 📫 Contact Me
 - **LinkedIn**: [linkedin.com/in/nadeeshhirushan](https://www.linkedin.com/in/nadeeshhirushan/)
 - **GitHub**: [github.com/Hirushan-N](https://github.com/Hirushan-N)
 - **Email**: [nadeeshhirushan@gmail.com](mailto:nadeeshhirushan@gmail.com)
